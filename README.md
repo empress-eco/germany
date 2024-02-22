@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Empress Germany Logo">
+
+  Empress Germany is a specialized application that streamlines accounting and business operations for companies operating within the German market. Built on the robust Empress platform, it is tailored to meet the unique regional requirements of Germany, making it the ideal solution for businesses seeking to navigate the complexities of German accounting standards and regulations.
 </div>
 
-Empress Germany is a specialized application that streamlines accounting and business operations for companies operating within the German market. Built on the robust Empress platform, it is tailored to meet the unique regional requirements of Germany, making it the ideal solution for businesses seeking to navigate the complexities of German accounting standards and regulations.
 
 ## Features
 
